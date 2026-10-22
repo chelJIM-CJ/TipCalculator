@@ -6,7 +6,7 @@
     <Grid
         RowDefinitions="Auto,Auto,Auto"
         ColumnDefinitions="*"
-        Padding="24"
+        Padding="24"    
         RowSpacing="16">
 
         <Border
@@ -116,7 +116,7 @@
                 <Label
                     Grid.Row="0"
                     Grid.Column="1"
-                    Text="1500"
+                    Text="$1,500.00"
                     HorizontalTextAlignment="End"/>
                 
                 <Label
@@ -126,7 +126,7 @@
                 <Label
                     Grid.Row="1"
                     Grid.Column="1"
-                    Text="500"
+                    Text="$500.00"
                     HorizontalTextAlignment="End"/>
                 
                 <Label
@@ -136,17 +136,17 @@
                 <Label
                     Grid.Row="2"
                     Grid.Column="1"
-                    Text="150"
+                    Text="$150.00"
                     HorizontalTextAlignment="End"/>
 
                 <Label
                     Grid.Row="3"
                     Grid.Column="0"
-                    Text="porpina por persona: "/>
+                    Text="propina por persona: "/>
                 <Label
                     Grid.Row="3"
                     Grid.Column="1"
-                    Text="50"
+                    Text="$50.00"
                     HorizontalTextAlignment="End"/>
 
                 <Label
@@ -156,17 +156,17 @@
                 <Label
                     Grid.Row="4"
                     Grid.Column="1"
-                    Text="1650"
+                    Text="$1,650.00"
                     HorizontalTextAlignment="End"/>
 
                 <Label
                     Grid.Row="5"
                     Grid.Column="0"
-                    Text="importe con porpina por persona: "/>
+                    Text="importe con propina por persona: "/>
                 <Label
                     Grid.Row="5"
                     Grid.Column="1"
-                    Text="550"
+                    Text="$550.00"
                     HorizontalTextAlignment="End"/>
 
             </Grid> 
